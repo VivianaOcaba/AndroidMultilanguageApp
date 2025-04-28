@@ -1,0 +1,2 @@
+# AndroidMultilanguageApp
+AndroidMultilanguageApp
